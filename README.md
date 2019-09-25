@@ -1,7 +1,14 @@
 # Ecrire en markdown - Exercice
 
-L'exercice suivant consiste à réaliser une petite **introduction d'un article scientifique** 
-sur un animal de votre choix et différent pour chacun des étudiants en **langage markdown**.
+L'exercice suivant consiste à réaliser une petite **introduction d'un article scientifique** sur un animal de votre choix et différent pour chacun des étudiants en **langage markdown**.
+
+Pour apprendre la syntaxe du langage markdown, RStudio vous propose des aides-mémoires que vous pouvez retrouver de la manière suivante :
+
+`Help -> Cheatsheets -> R Markdown Reference Guide`
+
+ou encore
+
+`Help -> Cheatsheets -> R Markdown Cheat Sheet`
 
 Afin de vous exercer à la pratique de ce langage, nous vous demanderons 
 d'**inclure les éléments suivants** dans votre article :
@@ -25,11 +32,10 @@ Voici quelques exemples de thématique que vous pourriez inclure dans celui-ci :
 
 N'hésitez pas à ajouter toute autre information que vous jugerez **pertinante**.
 
-Petit conseil, **explorez votre machine virutel** ! Vous pourrez y trouver certains 
-outils vous permettant de réaliser plus facilement certains élements qui vous sont
-demandés. 
+Petit conseil, **explorez votre machine virutel** ! Vous pourrez y trouver certains outils vous permettant de réaliser plus facilement certains élements qui vous sont demandés. 
 
 **Bonus :**
+
 Si vous avez envie de vous lancer un défis, vous pouvez, comme dans tout bon article 
 scientifique, écrire une **bibliographie** référant les articles que vous avez utilisé pour 
 rédiger votre document. 
