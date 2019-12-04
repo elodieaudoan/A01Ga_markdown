@@ -1,5 +1,8 @@
 # Ecrire en markdown - Exercice
 
+
+## Module 1 
+
 L'exercice suivant consiste à réaliser une petite **introduction d'un article scientifique** sur un animal de votre choix et différent pour chacun des étudiants en **langage markdown**.
 
 Pour apprendre la syntaxe du langage markdown, RStudio vous propose des aides-mémoires que vous pouvez retrouver de la manière suivante :
@@ -41,3 +44,7 @@ scientifique, écrire une **bibliographie** référant les articles que vous ave
 rédiger votre document. 
 Explorez le contenu du lien suivant <https://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html>
  pour réaliser cette tache. 
+ 
+ ### Etat de progression 
+ 
+ A la fin de ce module vous devez avoir terminé ce projet
