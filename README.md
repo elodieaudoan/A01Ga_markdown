@@ -1,7 +1,17 @@
-# Ecrire en markdown - Exercice
+# Mise en pratique du Module 1 Introduction
 
+Ecrire en markdown - Exercice
 
-## Module 1 
+# Objectifs
+
+* Au sein du fichier markdown.Rmd, rédigez en markdown en suivant les consignes ci-dessous. Ce fichier se trouve dans le dossier `docs`. 
+
+* Réalisez des commits et des push de ce projet. 
+
+> Ce projet est un projet court et cadré. Ce dernier doit être terminé pour la fin du module 1.
+
+# Consignes
+
 
 L'exercice suivant consiste à réaliser une petite **introduction d'un article scientifique** sur un animal de votre choix et différent pour chacun des étudiants en **langage markdown**.
 
@@ -22,8 +32,7 @@ d'**inclure les éléments suivants** dans votre article :
 - Réaliser une petite liste ainsi qu'un tableau
 - Insérer une image et un hyperlien
 
-Vous trouverez dans le sous dossier `analysis`, une ébauche du document que vous 
-devrez utiliser pour la rédaction de votre article. 
+Vous trouverez dans le sous dossier `docs`, une ébauche du document que vous devrez utiliser pour la rédaction de votre article. 
 
 Voici quelques exemples de thématique que vous pourriez inclure dans celui-ci :
 
@@ -44,7 +53,4 @@ scientifique, écrire une **bibliographie** référant les articles que vous ave
 rédiger votre document. 
 Explorez le contenu du lien suivant <https://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html>
  pour réaliser cette tache. 
- 
- ### Etat de progression 
- 
- A la fin de ce module vous devez avoir terminé ce projet
+
