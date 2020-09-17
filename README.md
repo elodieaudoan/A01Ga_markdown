@@ -1,19 +1,20 @@
-# Mise en pratique du Module 1 Introduction
+# Exercices pratiques sur le Module 1 : Introduction
 
-Ecrire en markdown - Exercice
+## Avant-propos
 
-# Objectifs
+Cette séance d'exercices vous propose de découvrir le langage markdown et de l'utiliser pour rédiger un texte. 
 
-* Au sein du fichier markdown.Rmd, rédigez en markdown en suivant les consignes ci-dessous. Ce fichier se trouve dans le dossier `docs`. 
+## Objectifs
 
-* Réalisez des commits et des push de ce projet. 
+Ce projet est un projet **individuel**, **court** et **cadré** qui doit être **terminé pour la fin du module 1**.
 
-> Ce projet est un projet court et cadré. Ce dernier doit être terminé pour la fin du module 1.
+* Au sein du fichier markdown.Rmd qui se trouve dans le dossier `docs`, rédigez en markdown en suivant les consignes ci-dessous.
 
-# Consignes
+* Réalisez plusieurs commits et push durant ce projet pour vous exercez. 
 
+## Consignes
 
-L'exercice suivant consiste à réaliser une petite **introduction d'un article scientifique** sur un animal de votre choix et différent pour chacun des étudiants en **langage markdown**.
+L'exercice proposé consiste à réaliser une petite **introduction d'un article scientifique** sur un animal de votre choix et différent pour chacun des étudiants en **langage markdown**.
 
 Pour apprendre la syntaxe du langage markdown, RStudio vous propose des aides-mémoires que vous pouvez retrouver de la manière suivante :
 
@@ -44,13 +45,10 @@ Voici quelques exemples de thématique que vous pourriez inclure dans celui-ci :
 
 N'hésitez pas à ajouter toute autre information que vous jugerez **pertinante**.
 
-Petit conseil, **explorez votre machine virutel** ! Vous pourrez y trouver certains outils vous permettant de réaliser plus facilement certains élements qui vous sont demandés. 
+Petit conseil, **explorez votre machine virtuelle** ! Vous pourrez y trouver certains outils vous permettant de réaliser plus facilement certains des élements qui vous sont demandés. 
 
 **Bonus :**
 
-Si vous avez envie de vous lancer un défis, vous pouvez, comme dans tout bon article 
-scientifique, écrire une **bibliographie** référant les articles que vous avez utilisé pour 
-rédiger votre document. 
-Explorez le contenu du lien suivant <https://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html>
- pour réaliser cette tache. 
+Si vous avez envie de vous lancer un défi, vous pouvez, comme dans tout bon article scientifique, écrire une **bibliographie** référant les articles que vous avez utilisé pour rédiger votre document. 
+Explorez le contenu du lien suivant <https://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html> pour réaliser cette tache. 
 
