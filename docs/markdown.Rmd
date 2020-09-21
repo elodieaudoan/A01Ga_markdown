@@ -1,18 +1,36 @@
 ---
-title: "Le titre de mon document"
-author: "Mon prénom et mon nom"
-date: "22/08/2020"
+title: "Le guépard"
+author: "Elodie Audoan"
+date: "21/09/2020"
 output: html_document
 ---
 
 <!--- G.E.
 Cette balise en grisée est une consigne. Il n'est pas utile de la supprimer. Elle ne s'affiche pas dans votre document finale. Afin de compiler votre document, cliquez sur le bouton `knit`
 
-Vous trouverez ci-dessous un rappel des thématiques que vous pouvez inclure dans ce document :
+# Le guépard
 
-- Classification
-- Mode de vie
-- Alimentation
-- Reproduction
-- ...
---->
+
+## Classification
+Le guépard, également appelé "cheetah" en anglais, est un **mammifère carnivore**. Son nom scientifique est *Acinonyx Jubatus*. 
+* Sous-ordre des **Néofelis**.
+* Famille des **Félidés**.
+* Classé "vulnérable" dans l'IUCN.
+<http://adsoullier.free.fr/Gu%E9pard-AdrienSoullier-OK.pdf>
+
+
+## Mode de vie
+Femelles   | Mâles
+---------- | -----------
+Solitaires | Groupes d'une même portée
+Le guépard est un chasseur diurne occupant un territoire de 50km^2^ qu'il partage avec ses congénères. 
+
+
+## Alimentation
+Le guépard est un **carnivore strict**. Il se nourrit d'antilopes, phacochères, autruches, lièvres, ... Sa technique de chasse préférentielle est la chasse **à l'approche**. En effet, il est réputé pour sa rapidité, ce qui lui permet d'attrapper certains animaux très rapides.
+
+
+## Reproduction
+Après **90 à 95 jours de gestation**, la femelle met bas de 3 à 5 guépardeaux. Le guépard est une espèce **nidicole**, cela signifie que les petits naissent aveugles. Ceux-ci sont sevrés entre 3 et 6 mois et restent auprès de leur mère pendant 13 à 20 mois. Ils sont matures sexuellement à l'âge de 15 mois.
+
+![Google image : Guépardeaux](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cheetah_Cubs_%28Acinonyx_jubatus%29_%286491917527%29.jpg/1280px-Cheetah_Cubs_%28Acinonyx_jubatus%29_%286491917527%29.jpg)
